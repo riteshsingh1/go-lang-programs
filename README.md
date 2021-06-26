@@ -9,4 +9,5 @@
 
 ## Array | Slices
 
-- [Merge 2 Sorted Arrays](https://replit.com/@1124ritesh/merge-two-sorted-arrays)
+- [Merge 2 Sorted Slices](https://replit.com/@1124ritesh/merge-two-sorted-arrays)
+- [Merge 2 Sorted Arrays](https://replit.com/@1124ritesh/merge-two-arrays)
