@@ -4,3 +4,9 @@
 ## Strings
 
 - [Reverse any string](https://replit.com/@1124ritesh/reverseastring)
+
+
+
+## Array | Slices
+
+- [Merge 2 Sorted Arrays](https://replit.com/@1124ritesh/merge-two-sorted-arrays)
