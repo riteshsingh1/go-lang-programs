@@ -19,3 +19,4 @@
 - [Linked List Implementation](https://replit.com/@1124ritesh/linked-list-single-complete#main.go)
 
 - [Stack - Array Implementation](https://replit.com/@1124ritesh/stack-array-implementation)
+- [Queue - Array Implementation](https://replit.com/@1124ritesh/queue-implementation)
